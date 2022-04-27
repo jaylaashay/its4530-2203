@@ -1,0 +1,2 @@
+cp /etc/ssl/certs/jsmith.csr ./
+sudo chown itsclass:itsclass *.*
